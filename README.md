@@ -14,7 +14,7 @@ Profissional com experiência em **Gestão de Projetos e Operações de TI** na 
 
 - 📊 **Mais de 400 chamados gerenciados** entre analistas de TI, com foco em priorização e redução de retrabalho
 - 🏆 **Liderança em projeto Lean Six Sigma (Yellow Belt)** com redução de **mais de 50%** no tempo de entrega de um serviço crítico
-- 🌐 Atendimento multilíngue a clientes internacionais (**inglês e espanhol**) — inclusive com cliente japonês em visita ao Data Center
+- 🌐 Atendimento multilíngue a clientes internacionais (**inglês e espanhol**)
 - ☁️ Em transição ativa para **Engenharia de Software e Cloud Computing**
 - 📄 **Documentação técnica** e alinhamento entre Customer e TI
 
