@@ -1,18 +1,22 @@
+---
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Olá, eu sou a Isabela!
 
 🎓 **Tecnóloga em Análise e Desenvolvimento de Sistemas | FATEC-SP**  
+🎓 **Engenharia de Software (cursando) | Universidade Cruzeiro do Sul**  
 📍 São Paulo, SP  
 
 ---
 
 ### 💼 Sobre mim
 
-Profissional com experiência prática em **Customer Success e Gestão de Projetos no Data Center da Vivo**. Atuo como ponte entre áreas de negócio e TI, traduzindo necessidades comerciais em requisitos técnicos.
+Profissional com experiência em **Gestão de Projetos e Operações de TI** na Vivo (Telefônica Brasil), atuando como ponte entre áreas de negócio e times técnicos. Especialista em traduzir demandas complexas em especificações claras, com expertise em Gestão de Incidentes, RCA, SLAs e Lean Six Sigma.
 
-- 🔥 **Mais de 400 chamados gerenciados** entre analistas de TI, com foco em priorização e redução de retrabalho
-- 🌐 Atendimento multilíngue a clientes internacionais (**inglês e espanhol**)
-- 📊 Certificada **Lean Six Sigma - Yellow Belt** (Vivo)
-- ☁️ Em transição ativa para **Cloud Computing** (AWS Cloud Practitioner em andamento → Solutions Architect)
+- 📊 **Mais de 400 chamados gerenciados** entre analistas de TI, com foco em priorização e redução de retrabalho
+- 🏆 **Liderança em projeto Lean Six Sigma (Yellow Belt)** com redução de **mais de 50%** no tempo de entrega de um serviço crítico
+- 🌐 Atendimento multilíngue a clientes internacionais (**inglês e espanhol**) — inclusive com cliente japonês em visita ao Data Center
+- ☁️ Em transição ativa para **Engenharia de Software e Cloud Computing**
+- 📄 **Documentação técnica** e alinhamento entre Customer e TI
 
 ---
 
@@ -20,37 +24,48 @@ Profissional com experiência prática em **Customer Success e Gestão de Projet
 
 | Categoria | Habilidades |
 | :--- | :--- |
-| **Cloud** | ☁️ AWS (em estudo)|
-| **Gestão/ITSM** | 📋 ServiceNow, Gestão de Incidentes, RCA, SLAs |
-| **Metodologias** | 🔄 Agile, Scrum, Kanban, Lean Six Sigma |
-| **Dados & Código** | 🐍 Python, 📊 SQL, 🌐 HTML, 📈 VBA, Power BI (noções) |
-| **Idiomas** | 🇧🇷 Português (nativo) • 🇺🇸 Inglês (fluente - TOEIC 860) • 🇪🇸 Espanhol (nativo) • 🇫🇷 Francês (iniciante) 
+| **Gestão & Operações** | 📋 ServiceNow, Gestão de Incidentes, RCA, SLAs, Lean Six Sigma |
+| **Metodologias** | 🔄 Agile, Scrum, Kanban, Gestão de Projetos, Documentação Técnica |
+| **Linguagens & Dados** | 🐍 Python, 📊 SQL, 🌐 HTML, 📈 VBA, Power BI (noções), Visualização de Dados |
+| **Cloud** | ☁️ Azure Active Directory (básico), AWS (em estudo) |
+| **Idiomas** | 🇧🇷 Português (nativo) • 🇺🇸 Inglês (fluente) • 🇪🇸 Espanhol (fluente) • 🇫🇷 Francês (iniciante) |
 
 ---
 
 ### 🎯 Objetivo profissional
 
-Busco uma posição **Júnior ou Pleno em Cloud, Engenharia de Software ou Gestão de Projetos de TI**, onde possa aplicar minha experiência em gestão de incidentes, integração entre negócios e TI, e suporte a clientes corporativos.
+Busco oportunidades em **Gestão de Projetos, Customer Success, Governança de TI ou Engenharia de Software**, para aplicar minha experiência em operações de TI e gestão de incidentes no desenvolvimento de soluções escaláveis e de qualidade. Aberta a posições nacionais e internacionais.
 
 > 💡 **Disponível para recolocação ativa no mercado**
 
 ---
 
-### 📜 Certificações em andamento
+### 📜 Certificações
 
-- ✅ Lean Six Sigma - Yellow Belt (Vivo, 2025)
-- 🔄 **AWS Cloud Practitioner** (em estudo - conclusão em breve)
-- 🔄 Segurança Cibernética (SENAI, 2024)
+- ✅ **Lean Six Sigma - Yellow Belt** (Vivo, 2025)
+- 🔄 AWS Cloud Practitioner (em estudo)
 - 📜 TOEIC 860 (ETS, 2023)
 
 ---
 
+### 🌟 Destaques
+
+- 🚀 **Voluntária para desafios** — assumi apresentação de serviço do Data Center ao comitê mesmo sem ser minha responsabilidade direta; serviço aprovado
+- 🗣️ **Comunicação multilíngue** — conduzi visita de cliente japonês no Data Center alternando entre inglês e espanhol
+- 📈 **Resultados mensuráveis** — redução de 50% no tempo de entrega com projeto Lean Six Sigma
+
+---
 
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-laurentino/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laurentinobela@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabela-laurentino)
 
 ---
 
-⭐ *"Combinando visão de negócio com execução técnica para entregar valor em cloud e infraestrutura."*
+### ⚡ Curiosidade
+
+> *"Who doesn't show up, doesn't get remembered."* — Essa frase me acompanha desde que me voluntariei para receber um cliente japonês no Data Center da Vivo. Aprendi que as melhores oportunidades vêm de dizer "sim" antes de se sentir pronta. 🌎
+
+---
